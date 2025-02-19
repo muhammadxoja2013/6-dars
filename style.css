@@ -1,0 +1,33 @@
+header {
+    display: flex;
+    justify-content: space-around;
+
+}
+main div{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    color: #fff;
+    text-align: center;
+}main{
+    
+    margin: 0 auto;
+    width: 1240px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 50px;
+}
+h1{
+    text-align: center;
+}
+span{
+    color: yellow;
+}
+.header-wrapper{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
